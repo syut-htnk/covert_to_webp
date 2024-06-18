@@ -1,0 +1,3 @@
+([('converter_to_webp',
+   '/Users/puro/Documents/Github-Repositories/covert_to_webp/dist/converter_to_webp',
+   'EXECUTABLE')],)
